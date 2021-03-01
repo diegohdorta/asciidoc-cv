@@ -1,0 +1,22 @@
+// Copyright 2020 Diego Dorta
+== icon:suitcase[] Professional Experience
+
+=== NXP Semiconductors
+
+* icon:calendar[] **August, 2018 to February, 2021** (_2y9m_) +
+** icon:group[] **System and Application Engineer at System Engineering Team**
+*** _Artificial Intelligence and Machine Learning Applications Developer (TensorFlow, Scikit-Learn, PyTorch)_;
+*** _User Interface and Multimedia Applications Developer (Qt, GTK, GStreamer)_;
+*** _Bootloader (U-Boot) and Kernel Driver Contributer (Ethernet, USB), Root File System (Buildroot, Yocto)_.
+
+* icon:calendar[] **June, 2016 to July, 2018** (_2y_) +
+** icon:group[] **Research and Development Intern at MPU Team**
+*** _Development of Machine Learning Applications, Open Source Contributions and Documentation Review_.
+
+=== Brazilian Synchrotron Light Source, LNLS/CNPEM
+
+* icon:calendar[] **January, 2014 to December, 2015** (_2y_) +
+** icon:group[] **Computer Engineering Intern at Beamline Software Group**
+*** _Scientific Instruments and Driver Applications Developer_.
+
+

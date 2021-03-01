@@ -1,0 +1,41 @@
+// Copyright 2020 Diego Dorta
+[.text-center]
+== icon:user[] Personal Details
+
+[.text-center]
+icon:home[] 34 José Perina, Jardim São Vicente, Campinas, SP, Brazil https://goo.gl/maps/A4USFGc75EA2cTAeA[icon:map-marker[]] | icon:phone[] +55 19 999 880 902 | mailto:diegohdorta@gmail.com[icon:at[]] | `https://github.com/diegohdorta[icon:github[]]` | https://www.instagram.com/diegohdorta/[icon:instagram[]] | https://www.linkedin.com/in/diegodorta/[icon:linkedin[]]
+
+//[.text-center]
+//icon:home[] Campinas, SP, Brazil https://goo.gl/maps/A4USFGc75EA2cTAeA[icon:map-marker[]] | icon:phone[] +55 19 999 880 902 | mailto:diegohdorta@gmail.com[icon:at[]] | `https://github.com/diegohdorta[icon:github[]]` | https://www.instagram.com/diegohdorta/[icon:instagram[]] | https://www.linkedin.com/in/diegodorta/[icon:linkedin[]]
+
+
+
+
+//colocar email
+//colocar diegodorta no linkedin
+
+//personal
+
+//object
+
+//software engineer | application engineer | system engineer
+
+//summary
+
+//software engineer with 5 y of experience working with AI/ML and general software development. desenvolvedor e multiplicador de conhecimentos tecnicos
+
+//professional
+
+
+//remover education e deixar academic background
+
+//colocar a data no final do nome da empresa
+
+//NOVO TOPICO para idiomas depois de academic background
+
+
+//TECHNICAL SKILLS
+
+//TRAINING AND PRESENTATIONS
+
+

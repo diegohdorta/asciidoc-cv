@@ -1,0 +1,26 @@
+// Copyright 2020 Diego Dorta
+== icon:graduation-cap[] Education
+=== Academic Background
+
+* icon:calendar[] **March, 2020 to Present** (_11m_)
+** icon:university[] University of Campinas (_M.E, Artificial Intelligence and Machine Learning_).
+
+* icon:calendar[] **March, 2010 to August, 2018** (_8y5m_) +
+** icon:university[] Pontifical Catholic University of Campinas transferred to UniMetrocamp (_B.E, Computer Engineering_).
+
+
+== icon:plug[] Technical Skills
+
+* **Programming Languages and OS**
+
+** Proficient in _C_, and _Python_. Competent in _{cpp}_, and _Java_. Advanced knowledge on GNU/Linux System.
+
+* **Other Hard and Soft Technologies**
+
+** _AsciiDoc_, _Markdown_, _Git_, _Docker_, _Bash_, _EPICS_, _POSIX_, _GCC_, _Clang_, _Licences_.
+
+* **Languages**
+
+** **Portuguese** (_native_), **English** (_proficient_), **French/Italian/Japanese/Chinese** (_pre-intermediate_).
+
+
