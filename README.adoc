@@ -1,0 +1,35 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+:source-highlighter: :rouge:
+endif::[]
+
+= Personal Curriculum Vitae
+
+== Building Process
+
+=== Software Requirements
+
+. Install the essential packages:
++
+[source,console]
+----
+~# apt install ruby-bundler
+~# bundle install
+----
+
+=== Generating CV
+
+[source,console]
+----
+~$ git clone https://github.com/diegohdorta/asciidoc-cv.git
+~$ cd asciidoc-cv/
+~asciidoc-cv$ ./asciidoc-cv-builder
+----
+
+== Copyright and License
+
+Copyright 2020 Diego Dorta.
