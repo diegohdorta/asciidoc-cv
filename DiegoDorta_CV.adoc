@@ -1,0 +1,21 @@
+= Diego Dorta
+© 2020 Diego Dorta
+REV 1.8, February 23, 2021
+:!doctype: article
+:reproducible:
+:!toc2:
+:toclevels: 5
+:source-highlighter: coderay
+:icons: font
+:autofit-option:
+ifdef::backend-pdf[:notitle:]
+ifdef::backend-pdf[]
+[discrete]
+= {doctitle}
+endif::[]
+
+include::chapters/1-chapter.adoc[]
+include::chapters/2-chapter.adoc[]
+include::chapters/3-chapter.adoc[]
+include::chapters/4-chapter.adoc[]
+include::chapters/5-chapter.adoc[]
