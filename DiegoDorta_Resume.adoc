@@ -14,8 +14,13 @@ ifdef::backend-pdf[]
 = {doctitle}
 endif::[]
 
+[.text-center]
+Software Engineer | Free Software Enthusiast | 5+ years of experience working with C, Python, and AI/ML.
+
 include::chapters/1-chapter.adoc[]
 include::chapters/2-chapter.adoc[]
 include::chapters/3-chapter.adoc[]
 include::chapters/4-chapter.adoc[]
 include::chapters/5-chapter.adoc[]
+
+

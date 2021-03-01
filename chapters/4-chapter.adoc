@@ -2,7 +2,7 @@
 
 == icon:book[] Technical Writing
 
-=== Conferences & Presentations
+=== Trainings & Presentations
 
 * icon:calendar[] **October, 2020** +
 ** AI/ML Online Presenter at SIEEL (_USP, and Ufscar_) (Campinas, SP https://goo.gl/maps/qy1g4Gf3ojawXrdY9[icon:map-marker[]])
@@ -22,10 +22,10 @@
 * icon:calendar[] **November, 2017** +
 ** https://raw.githubusercontent.com/diegohdorta/asciidoc-cv/master/chapters/media/ftfbrazil.jpg?token=ACQLYQUHM4UO56N4GKFVRIS6OPX5Y[icon:image[]] i.MX Hands-on Presenter at FTF Brazil (São Paulo, SP https://goo.gl/maps/sjjk4cWjwt4AfbpFA[icon:map-marker[]])
 
-=== Publications and GitHub Projects
+=== Publications & GitHub Projects
 
 * icon:calendar[] **2020** +
-** https://github.com/diegohdorta/pyeiq[icon:file[]] _A Python Demo Framework for eIQ on i.MX Processors_.
+//** https://github.com/diegohdorta/pyeiq[icon:file[]] _A Python Demo Framework for eIQ on i.MX Processors_.
 ** https://github.com/diegohdorta/asciidoc-generator-custom-template[icon:file[]] _Open Source Tool for Generating AsciiDoc Document Template_.
 ** https://github.com/diegohdorta/docker-imx[icon:file[]] _GPU Applications Running on i.MX 8 Boards Using Docker and Ubuntu/Debian Distros_.
 
@@ -38,8 +38,8 @@
 ** https://github.com/diegohdorta/feynman/tree/master/OpenCL[icon:file[]] _OpenCL Examples for Calculating Vectors on Embedded Systems_.
 //** https://github.com/diegohdorta/feynman/tree/master/serial[icon:file[]] _POSIX Serial Communicator_.
 
-* icon:calendar[] **2017** +
-** https://www.youtube.com/watch?v=O5F1N312Bhg[icon:youtube[]] https://imxdev.gitlab.io/video/tutorial/Creating_Qt_Application_for_iMX/[icon:file[]] _Creating Qt Application for i.MX_.
+//* icon:calendar[] **2017** +
+//** https://www.youtube.com/watch?v=O5F1N312Bhg[icon:youtube[]] https://imxdev.gitlab.io/video/tutorial/Creating_Qt_Application_for_iMX/[icon:file[]] _Creating Qt Application for i.MX_.
 
 * icon:calendar[] **2016** +
 ** https://diegohdorta.gitlab.io/Boot_Time_Research_Enhancement/[icon:file[]] _Boot Time Research Enhancement_.
@@ -47,10 +47,14 @@
 *** https://www.youtube.com/watch?v=Fy1ueQBgDiI[icon:youtube[]] https://imxdev.gitlab.io/tutorial/How_to_decrease_boot_time_on_iMX6/[icon:file[]] _How to Decrease Boot Time on iMX6_.
 
 * icon:calendar[] **2015** +
-** https://epics.anl.gov/modules/contact.php#Diego%20Dorta[icon:file[]] _Published EPICS Drivers for Scientific Instruments_.
+//** https://epics.anl.gov/modules/contact.php#Diego%20Dorta[icon:file[]] _Published EPICS Drivers for Scientific Instruments_.
 ** https://github.com/lnls-sol/py4syn/blob/master/py4syn/epics/Keithley6485Class.py[icon:file[]] _Py4Syn Keithley 6485 Electrometer Support_.
 ** https://github.com/lnls-sol/py4syn/blob/master/py4syn/epics/Keithley6514Class.py[icon:file[]] _Py4Syn Keithley 6514 Electrometer Support_.
 ** https://github.com/diegohdorta/feynman/tree/master/epics/medipix-ioc[icon:file[]] _EPICS Medipix Input/Output Controller_.
 ** https://github.com/diegohdorta/feynman/tree/master/medipix-server[icon:file[]] _Medipix CERN Server_.
 //** https://github.com/diegohdorta/feynman[icon:file[]] Folder for old and discombobulated codes.
+
+
+* icon:calendar[] **2014 - 2010** +
+** https://github.com/diegohdorta/feynman[icon:file[]] Check out this folder for older codes for fun and learning only.
 

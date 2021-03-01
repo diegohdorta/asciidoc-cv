@@ -1,22 +1,22 @@
 // Copyright 2020 Diego Dorta
 == icon:suitcase[] Professional Experience
 
-=== NXP Semiconductors
+=== NXP Semiconductors | Automotive, Security, IoT
 
-* icon:calendar[] **August, 2018 to February, 2021** (_2y9m_) +
-** icon:group[] **System and Application Engineer at System Engineering Team**
-*** _Artificial Intelligence and Machine Learning Applications Developer (TensorFlow, Scikit-Learn, PyTorch)_;
-*** _User Interface and Multimedia Applications Developer (Qt, GTK, GStreamer)_;
-*** _Bootloader (U-Boot) and Kernel Driver Contributer (Ethernet, USB), Root File System (Buildroot, Yocto)_.
+* icon:group[] **System and Application Engineer at System Engineering Team** | icon:calendar[] **August, 2018 to February, 2021** +
+** _Artificial Intelligence and Machine Learning Applications Developer (TensorFlow, Scikit-Learn, PyTorch)_;
+*** https://github.com/diegohdorta/pyeiq[icon:file[]] Most relevant work: _A Python Demo Framework for eIQ on i.MX Processors_.
+** _User Interface and Multimedia Applications Developer (Qt, GTK, GStreamer)_;
+** _Bootloader (U-Boot) and Kernel Driver Contributer (Ethernet, USB), Root File System (Buildroot, Yocto)_.
 
-* icon:calendar[] **June, 2016 to July, 2018** (_2y_) +
-** icon:group[] **Research and Development Intern at MPU Team**
-*** _Development of Machine Learning Applications, Open Source Contributions and Documentation Review_.
+* icon:group[] **Research and Development Intern at MPU Team** | icon:calendar[] **June, 2016 to July, 2018** +
+** _Development of Machine Learning Applications, Open Source Contributions and Documentation Review_.
+*** https://www.youtube.com/watch?v=O5F1N312Bhg[icon:youtube[]] https://imxdev.gitlab.io/video/tutorial/Creating_Qt_Application_for_iMX/[icon:file[]] Most relevant work: _Creating Qt Application for i.MX Embedded Systems_.
 
-=== Brazilian Synchrotron Light Source, LNLS/CNPEM
+=== Brazilian Synchrotron Light Source | CNPEM
 
-* icon:calendar[] **January, 2014 to December, 2015** (_2y_) +
-** icon:group[] **Computer Engineering Intern at Beamline Software Group**
-*** _Scientific Instruments and Driver Applications Developer_.
+* icon:group[] **Computer Engineering Intern at Beamline Software Group** | icon:calendar[] **January, 2014 to December, 2015** +
+** _Scientific Instruments and Driver Applications Developer_.
+*** https://epics.anl.gov/modules/contact.php#Diego%20Dorta[icon:file[]] Most relevant work: _Published EPICS Drivers for Scientific Instruments_.
 
 
