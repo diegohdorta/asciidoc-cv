@@ -21,13 +21,13 @@ endif::[]
 ~# bundle install
 ----
 
-=== Generating CV
+=== Generating Resume
 
 [source,console]
 ----
-~$ git clone https://github.com/diegohdorta/asciidoc-cv.git
-~$ cd asciidoc-cv/
-~asciidoc-cv$ ./asciidoc-cv-builder
+~$ git clone https://github.com/diegohdorta/asciidoc-resume.git
+~$ cd asciidoc-resume/
+~asciidoc-resume$ ./asciidoc-resume-builder
 ----
 
 == Copyright and License
